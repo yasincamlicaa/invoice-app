@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Firstly, use **npm-install**, after **npx webpack serve --mode development** and start project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
