@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "name": "First invoice",
+        "priority": "Low",
+        "dueDate": "18/07/1998",
+        "note":"Credit card - Alberqueue"
+    },
+    {
+        "id": 1,
+        "name": "Second invoice",
+        "priority": "Medium",
+        "dueDate": "20/07/2024",
+        "note":"Cash - Brooklyn"
+    }
+]
